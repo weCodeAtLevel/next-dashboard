@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className="">
       <div className="flex flex-col gap-5 w-full">
-        <PageTitle title="Dashboard" />
+        <PageTitle title="User Dashboard" />
       </div>
     </main>
   );
